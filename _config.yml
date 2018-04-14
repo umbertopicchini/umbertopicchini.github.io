@@ -5,12 +5,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+remote_theme: alshedivat/al-folio
+
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Umberto Picchini TEST PAGE"
 title_separator          : "-"
 name                     : &name "Umberto Picchini"
-description              : &description "Associate Professor in Mathematical Statistocs at Chalmers/Gothenburg University, Sweden"
+description              : &description "Associate Professor in Mathematical Statistics at Chalmers/Gothenburg University, Sweden"
 url                      : https://umbertopicchini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
