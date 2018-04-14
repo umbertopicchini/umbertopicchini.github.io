@@ -11,7 +11,7 @@ remote_theme: alshedivat/al-folio
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Umberto Picchini TEST PAGE"
+title                    : "Umberto Picchini TEST PAGE2"
 title_separator          : "-"
 name                     : &name "Umberto Picchini"
 description              : &description "Associate Professor in Mathematical Statistics at Chalmers/Gothenburg University, Sweden"
