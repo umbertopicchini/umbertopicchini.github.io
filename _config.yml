@@ -88,7 +88,6 @@ author:
   email            :
   uri              :
   bitbucket        :
-  blog             : "https://umbertopicchini.wordpress.com/"
   codepen          :
   dribbble         :
   flickr           :
@@ -112,6 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  wordpress        : "https://umbertopicchini.wordpress.com/"
 
 
 # Reading Files
