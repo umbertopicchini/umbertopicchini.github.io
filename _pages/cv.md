@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV test"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education 
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* 2007, Ph.D. in Statistics at the Department of Statistics, Probability and Applied Statistics, University of Rome "La Sapienza", Italy.
+* 2003-2006, research fellow at the Biomathematics Laboratory (Institute of System Analysis and Computer Science, Rome, Italy), within the Ph.D. program in Statistics at University of Rome "La Sapienza", Italy
+* 2003, M.Sc. in Statistics at the Faculty of Statistics, University of Rome "La Sapienza", Italy. 
 
 Work experience
 ======
