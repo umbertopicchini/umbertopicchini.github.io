@@ -13,7 +13,7 @@ Education
 ======
 * 2007, Ph.D. in Statistics at the Department of Statistics, Probability and Applied Statistics, University of Rome "La Sapienza", Italy.
 * 2003-2006, research fellow at the Biomathematics Laboratory (Institute of System Analysis and Computer Science, Rome, Italy), within the Ph.D. program in Statistics at University of Rome "La Sapienza", Italy
-* 2003, M.Sc. in Statistics at the <a href="http://www.dss.uniroma1.it/en">Faculty of Statistics</a>, University of Rome "La Sapienza", Italy. 
+* 2003, M.Sc. in Statistics at the [Faculty of Statistics](http://www.dss.uniroma1.it/en), University of Rome "La Sapienza", Italy. 
 
 Work experience
 ======
