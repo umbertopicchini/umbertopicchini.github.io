@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-a test
+You publish some of my slides on [Slideshare](http://www.slideshare.net/UmbertoPicchini). I also have a [research blog](https://umbertopicchini.wordpress.com/).
 
 Test
 ======
