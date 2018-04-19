@@ -11,6 +11,5 @@ Contact information is below, including email and various web services.  This is
 
 * E-mail: umberto [at] maths.lth.se
 * Twitter: [uPicchini](http://twitter.com/uPicchini)
-* Google Scholar: [author:umberto-picchini](https://scholar.google.se/citations?user=eD2hwhcAAAAJ&hl=en)
 * LinkedIn: [umberto-picchini](https://www.linkedin.com/in/umberto-picchini-110485115/)
 
