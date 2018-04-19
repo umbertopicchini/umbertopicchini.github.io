@@ -1,12 +1,11 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 
 ---
 
-{% include base_path %}
+
 
 I publish some of my slides on [Slideshare](http://www.slideshare.net/UmbertoPicchini). I also have a [research blog](https://umbertopicchini.wordpress.com/).
 
