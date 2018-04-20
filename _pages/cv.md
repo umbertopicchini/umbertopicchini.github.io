@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A broader description can be found at my [ORCID profile](http://orcid.org/0000-0002-0732-9154).
+Further details can be found at my [ORCID profile](http://orcid.org/0000-0002-0732-9154).
 
 Work experience
 ======
