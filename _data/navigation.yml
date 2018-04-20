@@ -17,9 +17,6 @@ main:
     
   - title: "Bayes"
     url: /bayes/ 
-    
-  - title: "Students"
-    url: /students/
         
   - title: "Blog"
     url: https://umbertopicchini.wordpress.com/
