@@ -6,11 +6,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Grants"
+    url: /grants/ 
+    
+  - title: "Software"
+    url: /software/  
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    
+  - title: "Bayes"
+    url: /bayes/ 
+    
+  - title: "Students"
+    url: /students/
         
   - title: "Blog"
     url: https://umbertopicchini.wordpress.com/
@@ -21,5 +30,3 @@ main:
   - title: "Contact"
     url: /contact/
     
-  - title: "Guide (REMOVE ME)"
-    url: /markdown/
