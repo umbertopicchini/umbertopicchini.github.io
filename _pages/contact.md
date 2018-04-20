@@ -5,7 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 
 ---
-**THIS PAGE IS UNDER CONSTRUCTION. Will soon add physical coordinates to find me at University of Githenburg and a snail mail address**
+**THIS PAGE IS UNDER CONSTRUCTION. I will soon add physical coordinates to find me at the Department of Mathematics, University of Gothenburg, and a snail mail address**
 
 * E-mail: umberto [at] maths.lth.se
 * Twitter: [uPicchini](http://twitter.com/uPicchini)
