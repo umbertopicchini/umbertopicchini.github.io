@@ -13,7 +13,7 @@ Likelihood-free methods, approximate Bayesian computation and stochastic modelli
 ======
 
 For years 2014-2018 I have been granted 3,360,000 SEK (euro 380,000) from the Swedish research council for the interdisciplinary project 
-"Statistical Inference and Stochastic Modelling of Protein Folding" ([here is an accessible description](http://www.maths.lu.se/index.php?id=85411)) for which I am the principal investigator. This is a collaboration with [Kresten Lindorff-Larsen](http://www1.bio.ku.dk/english/staff/profile/?id=174843) (Dept. Biology, Copenhagen University) 
+"Statistical Inference and Stochastic Modelling of Protein Folding" ([here is an accessible description](http://www.maths.lu.se/index.php?id=85411)) for which I am the principal investigator. This is a collaboration with [Kresten Lindorff-Larsen](http://www1.bio.ku.dk/english/research/bms/research/sbinlab/groups/kll/) (Dept. Biology, Copenhagen University) 
 and [Julie Lyng Forman](http://biostat.ku.dk/staff_/?pure=en/persons/164838) (Dept. Biostatistics, Copenhagen University).
 In a preliminary work with Julie Forman we have considered the problem of estimating folding rates for some protein having a coordinate 
 switching between the folded and unfolded state. We have proposed a new dynamical model (expressed as sum of two diffusions) and a 
