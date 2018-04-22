@@ -16,4 +16,4 @@ This is the (soon to be) personal page of Umberto Picchini, Associate Professor 
 
 On this site you will find many ways to contact me and follow my research.
 
-Please [get in touch](contact) with me to talk about biomedical modelling, statistical inference (especially Bayesian), likelihood-free inference, and all Monte Carlo statistical methods. 
+Please [get in touch](contact) to talk about biomedical modelling, statistical inference (especially Bayesian), likelihood-free inference, and all Monte Carlo statistical methods. 
