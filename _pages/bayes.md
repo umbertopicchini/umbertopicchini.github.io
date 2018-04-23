@@ -7,7 +7,7 @@ author_profile: true
 
 I am very interested in researching computational methods for [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference). 
 For example approximate Bayesian computation (ABC), Markov chain Monte Carlo (MCMC) and sequential Monte Carlo (aka particle filters) 
-for Bayesian inference. More in general I am interested in [likelihood-free inference](/research/#abc) for models having _intractable likelihoods_.
+for Bayesian inference. More in general I am interested in [likelihood-free inference](research/#abc) for models having _intractable likelihoods_.
 
 These interests are reflected in my [publications](/publications) and my [blog posts](https://umbertopicchini.wordpress.com/).
 
