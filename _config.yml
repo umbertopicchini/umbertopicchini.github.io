@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Umberto Picchini TEST PAGE"
+title                    : "Umberto Picchini"
 title_separator          : "-"
 name                     : &name "Umberto Picchini"
 description              : &description ""
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Umberto Picchini"
-  avatar           : "profile.png"
+  avatar           : "umberto_pic.jpg"
   bio              : ""
   location         : "Gothenburg, Sweden"
   employer         :
