@@ -16,5 +16,7 @@ room H3030
 
 Department of Mathematical Sciences
 
-Chalmers Tvärgata 3, 412 96 Göteborg 
+Chalmers Tvärgata 3, 
+
+412 96 Göteborg 
 
