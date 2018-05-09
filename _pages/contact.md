@@ -5,9 +5,14 @@ excerpt: "Contact me"
 author_profile: true
 
 ---
-**THIS PAGE IS UNDER CONSTRUCTION. I will soon add physical coordinates to find me at the Department of Mathematics, University of Gothenburg, and a snail mail address**
 
-* E-mail: umberto [at] maths.lth.se
+* E-mail: picchini [at] chalmers [dot] se
 * Twitter: [uPicchini](http://twitter.com/uPicchini)
 * LinkedIn: [umberto-picchini](https://www.linkedin.com/in/umberto-picchini-110485115/)
+
+**Visiting address**
+
+room H3030
+Department of Mathematical Sciences
+Chalmers Tvärgata 3, 412 96 Göteborg 
 
