@@ -13,6 +13,8 @@ author_profile: true
 **Visiting address**
 
 room H3030
+
 Department of Mathematical Sciences
+
 Chalmers Tvärgata 3, 412 96 Göteborg 
 
