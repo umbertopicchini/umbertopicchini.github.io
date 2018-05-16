@@ -11,12 +11,16 @@ author_profile: true
 * Twitter: [uPicchini](http://twitter.com/uPicchini)
 * LinkedIn: [umberto-picchini](https://www.linkedin.com/in/umberto-picchini-110485115/)
 
-**Postal address
+**Postal address**
 
 Umberto Picchini
+
 Department of Mathematical Sciences
-Chalmers University of Technology
+
+Chalmers University of Technology and University of Gothenburg
+
 SE-412 96 Göteborg
+
 Sweden 
 
 **Visiting address**
