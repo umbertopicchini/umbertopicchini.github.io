@@ -12,4 +12,4 @@ This is the personal page of Umberto Picchini. As of May 2018 I am Associate Pro
 
 On this site you will find several ways to contact me and follow my research.
 
-Let's [get in touch](contact) to talk about biomedical modelling, statistical inference (especially Bayesian), likelihood-free inference, and Monte Carlo statistical methods. 
+Let's [get in touch](contact) to talk about **biomedical modelling**, statistical inference (especially **Bayesian**), **likelihood-free** methods, and **Monte Carlo** statistical methods. 
