@@ -16,5 +16,5 @@ Let's [get in touch](contact) to talk about **biomedical modelling**, statistica
 
 **News**
 - I will participate to [ISBA 2018](https://bayesian.org/isba2018/) in Edinburgh, including the satellite workshop on [ABC](https://sites.google.com/view/abc-in-edinburgh/), June 24-29.
-- New paper with Samuel Wiqvist and Julie Forman: "Accelerating delayed-acceptance Markov chain Monte Carlo algorithms", [arXiv:1806.05982](https://arxiv.org/abs/1806.05982).
+- [New paper](https://arxiv.org/abs/1806.05982) with [Samuel Wiqvist](http://www.maths.lu.se/staff/samuel-wiqvist/) and [Julie Forman](https://biostat.ku.dk/staff_/?pure=en/persons/164838): "Accelerating delayed-acceptance Markov chain Monte Carlo algorithms", [arXiv:1806.05982](https://arxiv.org/abs/1806.05982).
 - May 2018: I moved from Lund University to Chalmers University of Technology and University of Gothenburg.
