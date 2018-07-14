@@ -107,9 +107,14 @@ The so called "protein-folding problem" has been referred to as <i>"the Holy Gra
 However some contribution from the inference point of view can be given and we have proposed a new dynamical model (expressed as sum of two diffusions) and a quite fast computational strategy based on Approximate Bayesian Computation (ABC, see above) that seems to work well and could be used in place of exact Bayesian inference,
 when large datasets do not allow for the latter.
 
+ With <a href="http://www.maths.lu.se/staff/samuel-wiqvist/">Samuel Wiqvist</a> and Julie Forman we have produced a <a href="https://arxiv.org/abs/1806.05982">new way to accelerate MCMC sampling</a>, by
+ exploiting tricks that accelerate the (already well studied) "delayed-acceptance" MCMC methodology. We basically find ways to avoid
+ computing an expensive likelihood function. This has been applied with success to a dataset of 25,000 observations of a reaction-coordinate for
+ protein folding data. We also propose a novel SDE double-well potential model who is able to reproduce the observed time-course accurately.
+ 
 <br>
 <br>
-<b>Relevant papers:</b> &nbsp;&nbsp;<img src="/files/pdficon_small.png" border="0" >&nbsp;&nbsp;<a href="http://arxiv.org/abs/1310.0973">paper 2014</a>
+<b>Relevant papers:</b> &nbsp;&nbsp;<img src="/files/pdficon_small.png" border="0" >&nbsp;&nbsp;<a href="http://arxiv.org/abs/1310.0973">paper 2014</a> &nbsp;&nbsp;<img src="/files/pdficon_small.png" border="0" >&nbsp;&nbsp;<a href="https://arxiv.org/abs/1806.05982">paper 2018</a>
 
 </p>
 
