@@ -14,6 +14,8 @@ On this site you will find several ways to contact me and follow my research.
 
 Let's [get in touch](contact) to talk about **biomedical modelling**, statistical inference (especially **Bayesian**), **likelihood-free** methods, and **Monte Carlo** statistical methods.
 
+Interested in **Bayesian methods**? Check [this page](Bayes)!
+
 **News**
 - I will participate to [ISBA 2018](https://bayesian.org/isba2018/) in Edinburgh, including the satellite workshop on [ABC](https://sites.google.com/view/abc-in-edinburgh/), June 24-29.
 - [New paper](https://arxiv.org/abs/1806.05982) with [Samuel Wiqvist](http://www.maths.lu.se/staff/samuel-wiqvist/) and [Julie Forman](https://biostat.ku.dk/staff_/?pure=en/persons/164838): "Accelerating delayed-acceptance Markov chain Monte Carlo algorithms", [arXiv:1806.05982](https://arxiv.org/abs/1806.05982).
