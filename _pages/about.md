@@ -14,7 +14,7 @@ On this site you will find several ways to contact me and follow my research.
 
 Let's [get in touch](contact) to talk about **biomedical modelling**, statistical inference (especially **Bayesian**), **likelihood-free** methods, and **Monte Carlo** statistical methods.
 
-Interested in **Bayesian methods**? Check [this page](Bayes)!
+Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 - I will participate to [ISBA 2018](https://bayesian.org/isba2018/) in Edinburgh, including the satellite workshop on [ABC](https://sites.google.com/view/abc-in-edinburgh/), June 24-29.
