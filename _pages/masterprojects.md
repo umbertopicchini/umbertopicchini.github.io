@@ -12,5 +12,5 @@ This page is not really meant for public viewing and may contain unorganized ran
 Something related on the combination of summary statistics as from [Harrison-Baker](https://arxiv.org/abs/1703.02341)
 ======
 
-SOmething related to black-box VI for SDEs as in [Ryder et al](https://arxiv.org/abs/1802.03335)
+Something related to black-box VI for SDEs as in [Ryder et al](https://arxiv.org/abs/1802.03335)
 ======
