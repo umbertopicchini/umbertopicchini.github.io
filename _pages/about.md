@@ -16,6 +16,7 @@ Let's [get in touch](contact) to talk about **biomedical modelling**, statistica
 
 Interested in **Bayesian methods**? Check out [this page](bayes)!
 
+
 **News**
 
 - February 2019: [paper](https://arxiv.org/abs/1607.02633) with Julie Forman **accepted on JRSS series C**!
