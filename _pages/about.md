@@ -18,6 +18,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- [paper](https://arxiv.org/abs/1607.02633) with Julie Forman accepted on JRSS series C!
 - [New paper](https://arxiv.org/abs/1901.10230) "Partially Exchangeable Networks and architectures for learning summary statistics in Approximate Bayesian Computation.", [arXiv:1901.10230](https://arxiv.org/abs/1901.10230).
 - I will participate to [ISBA 2018](https://bayesian.org/isba2018/) in Edinburgh, including the satellite workshop on [ABC](https://sites.google.com/view/abc-in-edinburgh/), June 24-29.
 - [New paper](https://arxiv.org/abs/1806.05982) with [Samuel Wiqvist](http://www.maths.lu.se/staff/samuel-wiqvist/) and [Julie Forman](https://biostat.ku.dk/staff_/?pure=en/persons/164838): "Accelerating delayed-acceptance Markov chain Monte Carlo algorithms", [arXiv:1806.05982](https://arxiv.org/abs/1806.05982).
