@@ -19,6 +19,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- April 2019: [Paper accepted for the ICML Proceedings!](https://arxiv.org/abs/1901.10230), the International Conference on Machine Learning.
 - February 2019: [paper](https://arxiv.org/abs/1607.02633) with Julie Forman **accepted on JRSS series C**!
 - January 2019: [New paper](https://arxiv.org/abs/1901.10230) "Partially Exchangeable Networks and architectures for learning summary statistics in Approximate Bayesian Computation.", [arXiv:1901.10230](https://arxiv.org/abs/1901.10230).
 
