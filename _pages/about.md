@@ -26,3 +26,5 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 - January 2019: [New paper](https://arxiv.org/abs/1901.10230) "Partially Exchangeable Networks and architectures for learning summary statistics in Approximate Bayesian Computation.", [arXiv:1901.10230](https://arxiv.org/abs/1901.10230).
 
 [Older news](oldnews)
+
+![alt text](https://raw.githubusercontent.com/umbertopicchini/images/cloud-picchini_u_1-0000-0002-0732-9154.jpg)
