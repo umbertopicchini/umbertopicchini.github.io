@@ -27,4 +27,4 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 [Older news](oldnews)
 
-![alt text](https:/github.com.com/umbertopicchini/images/cloud-picchini_u_1-0000-0002-0732-9154.jpg)
+![alt text](https://raw.github.com/umbertopicchini/images/cloud-picchini_u_1-0000-0002-0732-9154.jpg)
