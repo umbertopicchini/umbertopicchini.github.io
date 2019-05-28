@@ -19,7 +19,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
-- May 2019:[New revision](https://arxiv.org/abs/1806.05982) of our accelerated MCMC paper.
+- May 2019: [New revision](https://arxiv.org/abs/1806.05982) of our accelerated MCMC paper.
 - May 2019: [New paper](http://arxiv.org/abs/1905.07976) "Stratified sampling and resampling for approximate Bayesian computation.", [arXiv:1905.07976](http://arxiv.org/abs/1905.07976).
 - April 2019: [Paper accepted for the Proceedings of ICML](https://arxiv.org/abs/1901.10230), the International Conference on Machine Learning.
 - February 2019: [paper](https://arxiv.org/abs/1607.02633) with Julie Forman **accepted on JRSS series C**!
