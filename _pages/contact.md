@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-* E-mail: <i><my family name></i> [at] chalmers [dot] se
+* E-mail: <my family name> [at] chalmers [dot] se
 * phone (office): +46 31 772 6414
 * Twitter: [uPicchini](http://twitter.com/uPicchini)
 * LinkedIn: [umberto-picchini](https://www.linkedin.com/in/umberto-picchini-110485115/)
