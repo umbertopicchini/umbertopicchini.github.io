@@ -14,6 +14,7 @@ author_profile: true
 **Postal address**
 
 Umberto Picchini
+
 Department of Mathematical Sciences
 
 Chalmers University of Technology and University of Gothenburg
