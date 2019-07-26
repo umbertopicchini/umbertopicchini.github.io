@@ -10,7 +10,7 @@ redirect_from:
 
 This is the personal page of Umberto Picchini. As of May 2018 I am Associate Professor in Mathematical Statistics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and University of Gothenburg, Sweden.
 
-Let's [get in touch](contact) to talk about statistical inference (especially **Bayesian**), **likelihood-free** methods for models with intractable likelihoods, and **Monte Carlo** statistical methods such as MCMC and sequential Monte Carlo.
+Let's [get in touch](contact) to talk about statistical inference (especially **Bayesian**), **likelihood-free** methods for models with intractable likelihoods, and **Monte Carlo** statistical methods such as MCMC and sequential Monte Carlo, and the application of statistical inference in applied problems.
 
 Interested in **Bayesian methods**? Check out [this page](bayes)!
 
