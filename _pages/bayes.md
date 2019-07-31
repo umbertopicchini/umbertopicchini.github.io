@@ -18,6 +18,10 @@ I have created [Bayes Nordics](https://sites.google.com/site/bayesnordics/). Thi
 Bayesian-related events, activities and job-posts in the European Nordic countries (just because I happen to work in a Nordic country).
 **Please join in! It's free!**
 
+göBayes reading group
+======
+I have created a [reading group](https://www.chalmers.se/en/departments/math/research/seminar-series/Bayesian-Reading-Group/) to discuss noteworthy papers.
+
 Study group in Bayesian methods at Lund University
 ======
 In 2015-16 I have coordinated a group _"to advance the understanding and use of Bayesian methodology for the quantification and communication 
