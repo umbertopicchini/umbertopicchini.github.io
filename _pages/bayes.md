@@ -13,9 +13,8 @@ These interests are reflected in my [publications](/publications) and my [blog p
 
 Bayes Nordics
 ======
-To ease the spread of information on events related to Bayesian methods, Bayesian data analysis and the practice of Bayesian analysis, 
-I have created [Bayes Nordics](https://sites.google.com/site/bayesnordics/). This is a distribution-list that focusses on 
-Bayesian-related events, activities and job-posts in the European Nordic countries (just because I happen to work in a Nordic country).
+I have created [Bayes Nordics](https://sites.google.com/site/bayesnordics/), a mail list that focusses on 
+Bayesian-related events, activities and job-posts in the European Nordic countries.
 **Please join in! It's free!**
 
 göBayes reading group
