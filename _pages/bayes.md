@@ -19,7 +19,7 @@ Bayesian-related events, activities and job-posts in the European Nordic countri
 
 göBayes reading group
 ======
-I have created a [reading group](https://www.chalmers.se/en/departments/math/research/seminar-series/Bayesian-Reading-Group/) to discuss noteworthy papers.
+I have created a [reading group](https://www.chalmers.se/en/departments/math/research/seminar-series/Bayesian-Reading-Group/) in Göteborg, to discuss noteworthy Bayesian papers.
 
 Study group in Bayesian methods at Lund University
 ======
