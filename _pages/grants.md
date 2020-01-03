@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}    
 
 Further info on my research grants can be found at my [ORCID profile](http://orcid.org/0000-0002-0732-9154).
+
+Deep Learning and likelihood-free Bayesian inference for intractable stochastic models
+======
+For years 2020-2024 I have received a combined 8.7 million SEK from [CHAIR](https://www.chalmers.se/en/centres/chair/news/Pages/Five-PhD-student-positions-funded-within-deep-neural-networks-and-machine-learning.aspx) (Chalmers AI Research Centre) and the Swedish Research Council (Vetenskapsrådet 2019-03924) to research on possibilities offered by deep neuronal networks to facilitate approximate Bayesian inference, such as approximate Bayesian computation (ABC). An initial motivating work is [published here](http://proceedings.mlr.press/v97/wiqvist19a.html). We plan to extend the methodology to accommodate state-space modelling, and generally non iid data, with particular emphasis on inference for stochastic differential equations.
     
 Likelihood-free methods, approximate Bayesian computation and stochastic modelling of protein folding
 ======
