@@ -25,3 +25,5 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 - April 2019: [Paper accepted for the Proceedings of ICML](http://proceedings.mlr.press/v97/wiqvist19a.html), the International Conference on Machine Learning.
 
 [Older news](oldnews)
+
+<a class="twitter-timeline" href="https://twitter.com/uPicchini?ref_src=twsrc%5Etfw">Tweets by uPicchini</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
