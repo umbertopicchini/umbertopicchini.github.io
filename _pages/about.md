@@ -26,4 +26,4 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 [Older news](oldnews)
 
-<a class="twitter-timeline" href="https://twitter.com/uPicchini?ref_src=twsrc%5Etfw">Tweets by uPicchini</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="600" data-height="1000" href="https://twitter.com/uPicchini?ref_src=twsrc%5Etfw">Tweets by uPicchini</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
