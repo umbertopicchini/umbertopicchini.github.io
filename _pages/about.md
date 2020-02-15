@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p  align="center">
- [**PhD position with me! Apply by 6 March 2020**](https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) 
+ PhD position with me! Apply by 6 March 2020, (https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) 
   </p>
 
 This is the personal page of Umberto Picchini, an Associate Professor in Mathematical Statistics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and University of Gothenburg, Sweden. Here is <a href="https://www.chalmers.se/en/staff/Pages/picchini.aspx">my official university profile</a>.
