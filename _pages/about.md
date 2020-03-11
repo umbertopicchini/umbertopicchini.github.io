@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p  align="center">
- **PhD position with me!** Apply by 6 March 2020, (https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) 
-  </p>
 
 This is the personal page of Umberto Picchini, an Associate Professor in Mathematical Statistics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and University of Gothenburg, Sweden. Here is <a href="https://www.chalmers.se/en/staff/Pages/picchini.aspx">my official university profile</a>.
 
@@ -20,7 +17,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
-- [**PhD position with me! Apply by 6 March 2020**](https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) 
+- [PhD position with me! Apply by 6 March 2020](https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) 
 - March 2020: [revised](https://arxiv.org/abs/1907.09851) "Efficient inference for stochastic differential equation mixed-effects models using correlated particle pseudo-marginal algorithms.", [arXiv:1907.09851](https://arxiv.org/abs/1907.09851).
 - January 2020: [revised](http://arxiv.org/abs/1905.07976) "Stratified sampling and bootstrapping for approximate Bayesian computation.", [arXiv:1905.07976](http://arxiv.org/abs/1905.07976).
 - July 2019: [New paper](https://arxiv.org/abs/1907.09851) "Efficient inference for stochastic differential mixed-effects models using correlated particle pseudo-marginal algorithms.", [arXiv:1907.09851](https://arxiv.org/abs/1907.09851).
