@@ -17,7 +17,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
-- [New paper](https://arxiv.org/abs/2004.04558) "Adaptive MCMC for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558).
+- April 2020: [New paper](https://arxiv.org/abs/2004.04558) "Adaptive MCMC for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558).
 - [PhD position with me! Apply by 6 March 2020](https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) 
 - March 2020: [revised](https://arxiv.org/abs/1907.09851) "Efficient inference for stochastic differential equation mixed-effects models using correlated particle pseudo-marginal algorithms.", [arXiv:1907.09851](https://arxiv.org/abs/1907.09851).
 - January 2020: [revised](http://arxiv.org/abs/1905.07976) "Stratified sampling and bootstrapping for approximate Bayesian computation.", [arXiv:1905.07976](http://arxiv.org/abs/1905.07976).
