@@ -17,6 +17,10 @@ I have created [Bayes Nordics](https://sites.google.com/site/bayesnordics/), a m
 Bayesian-related events, activities and job-posts in the European Nordic countries.
 **Please join in! It's free!**
 
+One World ABC seminars
+=====
+I am co-organizer of the [One World online seminars on Approximate Bayesian Computation](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar). 
+
 göBayes reading group
 ======
 I have created a [reading group](https://www.chalmers.se/en/departments/math/research/seminar-series/Bayesian-Reading-Group/) in Göteborg, to discuss noteworthy Bayesian papers.
