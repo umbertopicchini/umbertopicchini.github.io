@@ -17,6 +17,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- 2 September 2020: PhD student [Petar Jovanovski](https://www.chalmers.se/en/staff/Pages/petarj.aspx) has started his position under my supervision; he will work on [this project](https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) on simulation based inference.
 - <del>[PhD position with me! Apply by 1 June 2020](https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) </del>
 - on 7 May 2020 I gave a zoom talk at the [One World ABC Seminar](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar). The video is available [here](https://youtu.be/IOPnRfAJ_W8).
 - April 2020: [New paper](https://arxiv.org/abs/2004.04558) "Adaptive MCMC for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558).
