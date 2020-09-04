@@ -17,7 +17,7 @@ Umberto Picchini
 
 Department of Mathematical Sciences
 
-Chalmers University of Technology and University of Gothenburg
+Chalmers University of Technology 
 
 SE-412 96 Göteborg
 
