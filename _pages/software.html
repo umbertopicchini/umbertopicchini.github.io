@@ -9,19 +9,6 @@ author_profile: true
 Here follows a non-exaustive list of software I have produced. First I consider two "bigger" pieces of code and then a list of smaller educational ones, e.g. used for teaching.
 </p>
 
-<h2><tt>Software for stochastic differential equations simulation and estimation</tt></h2>
-
-<p>
-During the years I have developed a few MATLAB tools for the simulation and statistical inference of models defined by stochastic differential equations (SDEs). I am not really keeping these updated
-or state-of-art: they were developed to serve me while they were being created but I am not expanding them nor making changes (unless someone find bugs). The first one is 
-<tt>SDE Toolbox</tt> and the most recent one is <tt>abc-sde</tt>. <br><br>
-These packages serve different purposes and it's <i>not</i> that the latest <tt>abc-sde</tt> is somehow "better" than <tt>SDE Toolbox</tt>. The latter was an attempt at offering what (back in 2006-2007)
-was one of the very few integrated options available to simulate and estimate an SDE, by providing some inferential capabilities for parameter estimation in both one- and multi-dimensional SDE systems. 
-It is still a valid tool for simulating numerically solutions of SDE systems, however its inferential capabilities (Monte Carlo maximum likelihood) are rather outdated and the project is no longer developed.<br>
-<tt>abc-sde</tt> instead performs inference based on <a href="http://en.wikipedia.org/wiki/Approximate_Bayesian_computation">approximate Bayesian computation</a> (ABC) for stochastic models (including -- but not limited to -- state-space models) whose dynamics are described by SDEs. It uses an efficient "early-rejection" Markov chain Monte Carlo (MCMC) algorithm for ABC and assumes data/observations
-on which inference is based to be affected by some form of error (e.g. measurement error). Therefore it allows for inference from noisy observations.
-</p>
-
 <h2><tt>abc-sde</tt></h2>
 
 <b><a href="https://sourceforge.net/projects/abc-sde/"><tt>abc-sde</tt> a MATLAB toolbox for approximate Bayesian computation (ABC) in stochastic differential equation models.</a></b><br>
@@ -52,28 +39,7 @@ process; users can also simulate an SDE chosen from a library of template models
 </p>
 
 <h2><tt>Supporting code for my publications</tt></h2>
-
-<h2>SAEM-ABC</h2>
-
-<p>
-MATLAB code performing maximum likelihood estimation for state-space models using the SAEM algorithm combined with an ABC filter (ABC=approximate Batesian computation). 
-Available in my GitHub repository
-<a href="https://github.com/umbertopicchini/SAEM-ABC">https://github.com/umbertopicchini/SAEM-ABC</a>.
-This is the accompanying code to <a href="https://arxiv.org/abs/1512.04831">this publication</a>.
-
-Two case studies are implemented and comparison R code performing
-iterated filtering and Bayesian particle MCMC is also included.
-
-</p>
-
-<h2>SAEM-SL</h2>
-<p>
-MATLAB code performing maximum likelihood estimation for "incomplete data" models using a likelihood-free version of the SAEM algorithm. The user needs to specify the assumed data-generating model, and sets of "informative"
-summary statistics. Two case studies are implemented.
-Available in my GitHub repository
-<a href="https://github.com/umbertopicchini/SAEM-SL">https://github.com/umbertopicchini/SAEM-SL</a>. 
-This is the accompanying code to <a href="https://arxiv.org/abs/1609.03508">this publication</a>.
-</p>
+Code associated to some of my papers are linked in my <a href="https://umbertopicchini.github.io/publications/">publications page</a>. These can also be found on <a href="https://github.com/umbertopicchini">GitHub</a>. 
 
 
 <h2><tt>Small teaching projects</tt></h2>
