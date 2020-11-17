@@ -11,12 +11,12 @@ Further info on my research grants can be found at my [ORCID profile](http://orc
 
 Deep Learning and likelihood-free Bayesian inference for intractable stochastic models
 ======
-For years 2020-2024 I have received a combined 8.7 million SEK (**~850,000 euro**) from [CHAIR](https://www.chalmers.se/en/centres/chair/news/Pages/Five-PhD-student-positions-funded-within-deep-neural-networks-and-machine-learning.aspx) (Chalmers AI Research Centre) and the Swedish Research Council (Vetenskapsrådet 2019-03924) to research on possibilities offered by deep neuronal networks to facilitate approximate Bayesian inference, such as approximate Bayesian computation (ABC). An initial motivating work is [published here](http://proceedings.mlr.press/v97/wiqvist19a.html). We plan to extend the methodology to accommodate state-space modelling, and generally non exchangeable data, with particular emphasis on inference for stochastic differential equations. This project is in collaboration with Jes Frellsen (DTU, Copenhagen) and Andrew Golightly (Uni. Newcastle, UK).
+As PI, For years 2020-2024 I have received a combined 8.7 million SEK (**~850,000 euro**) from [CHAIR](https://www.chalmers.se/en/centres/chair/news/Pages/Five-PhD-student-positions-funded-within-deep-neural-networks-and-machine-learning.aspx) (Chalmers AI Research Centre) and the Swedish Research Council (Vetenskapsrådet 2019-03924) to research on possibilities offered by deep neuronal networks to facilitate approximate Bayesian inference, such as approximate Bayesian computation (ABC). An initial motivating work is [published here](http://proceedings.mlr.press/v97/wiqvist19a.html). We plan to extend the methodology to accommodate state-space modelling, and generally non exchangeable data, with particular emphasis on inference for stochastic differential equations. This project is in collaboration with Jes Frellsen (DTU, Copenhagen) and Andrew Golightly (Uni. Newcastle, UK).
     
 Likelihood-free methods, approximate Bayesian computation and stochastic modelling of protein folding
 ======
 
-For years 2014-2019 I have been granted 3,360,000 SEK (**~380,000 euro**) from the Swedish research council for the interdisciplinary project 
+As PI, for years 2014-2019 I have been granted 3,360,000 SEK (**~380,000 euro**) from the Swedish research council for the interdisciplinary project 
 "Statistical Inference and Stochastic Modelling of Protein Folding" ([here is an accessible description](http://www.maths.lu.se/index.php?id=85411)) for which I am the principal investigator. This is a collaboration with [Kresten Lindorff-Larsen](http://www1.bio.ku.dk/english/research/bms/research/sbinlab/groups/kll/) (Dept. Biology, Copenhagen University) 
 and [Julie Lyng Forman](http://biostat.ku.dk/staff_/?pure=en/persons/164838) (Dept. Biostatistics, Copenhagen University).
 In a preliminary work with Julie Forman we have considered the problem of estimating folding rates for some protein having a coordinate 
@@ -34,7 +34,7 @@ The study group has organized a number of well attended acivities during year 20
 A software for fitting general state–space multidimensional models
 ======
 
-In 2013 the Faculty of Science at Lund University awarded me 100,000 SEK (euro 12,000) for the project 
+In 2013 the Faculty of Science at Lund University awarded me 100,000 SEK (**euro 12,000**) for the project 
 “A software for fitting general state–space multidimensional models”. I coded [abc-sde](http://sourceforge.net/projects/abc-sde/) which 
 is a MATLAB package performing Approximate Bayesian Computation to estimate parameters in stochastic models having dynamics defined by 
 stochastic differential equations (SDEs). Both one- and multi-dimensional SDE systems are supported and partially observed systems are 
