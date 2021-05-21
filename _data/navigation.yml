@@ -20,9 +20,6 @@ main:
     
   - title: "Bayes"
     url: /bayes/ 
-    
-  - title: "Seminars" 
-    url: /seminars/
         
   - title: "Blog"
     url: https://umbertopicchini.wordpress.com/
