@@ -21,8 +21,8 @@ main:
   - title: "Bayes"
     url: /bayes/ 
         
-  - title: "Blog"
-    url: https://umbertopicchini.wordpress.com/
+  - title: "Seminars"
+    url: /seminars/ 
     
   - title: "CV"
     url: /cv/
