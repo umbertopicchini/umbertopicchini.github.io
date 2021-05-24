@@ -5,8 +5,7 @@ author_profile: true
 
 ---
 
-I have been organizing seminars in all institutions I have been employed in.
-Currently, I am organizer for three series of seminars, see below.
+I am organizer for three series of seminars, see below.
 
 Statistics seminars at Dept. Mathematical Sciences, Chalmers and University of Göteborg
 ======
