@@ -17,6 +17,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- 25 June 2021: significantly updated "Sequentially guided MCMC proposals for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558).
 - 9 June 2021: significantly updated "Sequential neural posterior and likelihood approximation", [arxiv:2102.06522](https://arxiv.org/abs/2102.06522).
 - 15 February 2021: [New paper](https://arxiv.org/abs/2102.06522) "Sequential neural posterior and likelihood approximation", [arxiv:2102.06522](https://arxiv.org/abs/2102.06522).
 - 3 November 2020: revised "Adaptive MCMC for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558)
