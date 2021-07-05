@@ -18,12 +18,10 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 **News**
 
 - 4 July 2021: [New paper](https://doi.org/10.1101/2021.07.01.450748) "PEPSDI: Scalable and flexible inference framework for stochastic dynamic single-cell models", [bioRxiv](https://doi.org/10.1101/2021.07.01.450748).
-- - 2 July 2021: [paper significantly updated](https://arxiv.org/abs/1905.07976) "Stratified sampling and bootstrapping for approximate Bayesian computation".
+- 2 July 2021: [paper significantly updated](https://arxiv.org/abs/1905.07976) "Stratified sampling and bootstrapping for approximate Bayesian computation".
 - 25 June 2021: significantly updated "Sequentially guided MCMC proposals for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558).
 - 9 June 2021: significantly updated "Sequential neural posterior and likelihood approximation", [arxiv:2102.06522](https://arxiv.org/abs/2102.06522).
 - 15 February 2021: [New paper](https://arxiv.org/abs/2102.06522) "Sequential neural posterior and likelihood approximation", [arxiv:2102.06522](https://arxiv.org/abs/2102.06522).
-- 3 November 2020: revised "Adaptive MCMC for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558)
-- 2 September 2020: PhD student [Petar Jovanovski](https://www.chalmers.se/en/staff/Pages/petarj.aspx) has started his position under my supervision; he will work on [this project](https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) on simulation based inference.
 
 
 [Older news](oldnews)
