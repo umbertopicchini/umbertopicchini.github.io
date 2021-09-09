@@ -15,7 +15,7 @@ This is the departmental [Stats series](https://www.chalmers.se/en/departments/m
 AI Talks, at Chalmers and University of Göteborg
 ======
 
-I am co-organizer for the [AI Talks](https://www.chalmers.se/en/centres/chair/events/AI-Talks/Pages/default.aspx) series set up by CHAIR (Chalmers AI Research Centre). This series promotes accessible and inspiring seminars from internationally acclaimed experts on artificial intelligence. Videos are available at the CHAIR [YouTube channel](https://www.youtube.com/channel/UC_4mfkM2YV94f-P4n81l-Bg/videos).
+I am co-organizer for the [AI Talks](https://www.aitalks.se/) series set up by CHAIR (Chalmers AI Research Centre). This series promotes accessible and inspiring seminars from internationally acclaimed experts on artificial intelligence. Videos are available at the CHAIR [YouTube channel](https://www.youtube.com/channel/UC_4mfkM2YV94f-P4n81l-Bg/videos).
 
 Approximate Bayesian Computation (ABC) One World series
 ======
