@@ -17,6 +17,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- 8 February 2022: published on <i>Bayesian Analysis</i>, [Sequentially guided MCMC proposals for synthetic likelihoods and correlated synthetic likelihoods](https://doi.org/10.1214/22-BA1305).
 - 24 September 2021: Samuel Wiqvist [defends his PhD thesis](https://www.maths.lu.se/kalendarium/?evenemang=phd-defense-samuel-wiqvist).
 - 4 July 2021: [New paper](https://doi.org/10.1101/2021.07.01.450748) "PEPSDI: Scalable and flexible inference framework for stochastic dynamic single-cell models", [bioRxiv](https://doi.org/10.1101/2021.07.01.450748).
 - 2 July 2021: [paper significantly updated](https://arxiv.org/abs/1905.07976) "Stratified sampling and bootstrapping for approximate Bayesian computation".
