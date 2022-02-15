@@ -16,7 +16,7 @@ My main research interests are about <b>statistical inference for stochastic mod
  <b>Monte Carlo methods</b> (MCMC, SMC). <br><br>
 
 I am particularly interested in statistical methodology for models not having a readily available likelihood function, 
- that is so-called <b>imulation-Based Inference</b> methods. Some of my favourite methods for intractable-likelihoods
+ that is so-called <b>Simulation-Based Inference</b> methods. Some of my favourite methods for intractable-likelihoods
  are found in the Bayesian framework, for example <b>Approximate Bayesian Computation (ABC)</b><br>
 <br>
 Other keywords related to my interests: inference for state-space models and stochastic differential equations (SDEs); 
@@ -44,7 +44,7 @@ that most of my preprints are freely available in <a href="/publications">my pub
 <br>
 
 <p>
-Approximate Bayesian computation (ABC) is a <i>likelihood-free</i> methodology allowing inference
+Approximate Bayesian computation (ABC) is a Simulation Based-Inference (aka <i>likelihood-free</i>) methodology allowing inference
 for models having an "intractable likelihood" function (see a <a href="http://arxiv.org/abs/1001.2058">review by Sisson and Fan, 2010</a> and another <a href="http://arxiv.org/abs/1101.0955">review by Marin e al. (2011)</a>). 
 ABC circumvents
 the evaluation of the intractable likelihood function while still targeting an approximated posterior distribution. ABC methodology is fascinating and extremely flexible. <a href="http://arxiv.org/abs/1204.5459">Here</a> I consider ABC for stochastic differential equation models observed with error. 
@@ -61,7 +61,9 @@ as hidden Markov models).<br>
  in JRSS-C in 2019. <a href="https://arxiv.org/abs/1607.02633">Here is the preprint.</a><br>
  A main difficulty with ABC is how to construct informative summary statistics. In a <a href="http://proceedings.mlr.press/v97/wiqvist19a.html">paper</a> accepted for ICML 2019, with Samuel Wiqvist, Jes Frellsen and Pierre-Alexander Mattei, we used deep learning to automatically
  construct these summaries for iid data and Markovian time series.<br>
- Together with Richard Everitt, we exploit stratified Monte Carlo to <a href="https://arxiv.org/abs/1905.07976">lower the variance of ABC likelihoods</a> approximated via resampling schemes.
+ Together with Richard Everitt, we exploit stratified Monte Carlo to <a href="https://arxiv.org/abs/1905.07976">lower the variance of ABC likelihoods</a> approximated via resampling schemes.<br>
+ Together with Umberto Simola and Jukka Corander, we produce a <a href="https://doi.org/10.1214/22-BA1305">novel MCMC proposal sampler</a> for synthetic likelihoods. The proposed parameters are ``guided'' to produce simulated data that is close to observed data,
+ resulting in a computationally more efficient MCMC algorithm. We also intoduce the notion of correlated synthetic likelihoods to increase the chains mixing.
 
 
 <br>
