@@ -29,15 +29,15 @@ that most of my preprints are freely available in <a href="/publications">my pub
 </p>
 
 <ul>
-<li><a href="#abc">Approximate Bayesian computation (ABC) and other likelihood-free methods</a></li>
+<li><a href="#abc">Simulation-based inference methods (ABC and more)</a></li>
+ <li><a href="#sdmem">Mixed-effects models defined via SDEs</a></li>
 <li><a href="#a-mle">Approximate maximum likelihood estimation</a></li>
 <li><a href="#folding">Inference for large datasets and modelling of protein-folding</a></li>
 <li><a href="#glycemia">Stochastic models for glycemia dynamics</a></li>
-<li><a href="#sdmem">Mixed-effects models defined via SDEs</a></li>
 </ul>
 
 <br>
-<a name="abc"><h3>Approximate Bayesian computation (ABC) and other likelihood-free methods</h3></a>
+<a name="abc"><h3>Simulation-based inference methods (ABC and more)</h3></a>
 <table class="image">
 <tr><td><img src="/files/almostbayes2.jpg" height=220 width=150 hspace=5></tr></td>
 <caption align="bottom"><i><font size="2"><a href="http://xianblog.wordpress.com/2011/09/08/yes-bayes-can/">&copy; Christian P. Robert</a></font></i></caption>
@@ -179,19 +179,3 @@ measurement error variability. To ease the inference, a more computationally fea
 <br>
 
 
-
-<p>
-It is often the case that a given experiment involves repeated measurements, particularly in biomedicine, where the several replicates might be
-measurements of the same experiment performed on different subjects or animals. Mixed-effects models assist in modelling variability when it is of interest
-to "catch" the overall behaviour of the entire "population" of subjects, that is making simultaneous inference for the collective dynamics of all subjects and not the individual (subject-specific) behaviour, by introducing random parameters. This
-allow for a more precise estimation of <i>population parameters</i>.
-This is especially interesting, and challenging, for mixed-models based on SDEs has been introduced: <a href="https://umbertopicchini.wordpress.com/2018/08/13/resources-for-stochastic-differential-equation-mixed-effects-models/">SDE mixed-effects models</a> (SDEMEMs) allow
-the simultaneous representation of <i>within-subject</i> stochastic variability in addition to collective (<i>between-subjects</i>) variation. I have constructed novel frequentist and Bayesian inferential methods for SDEMEMs, see a methodological <a href="http://dx.doi.org/10.1111/j.1467-9469.2009.00665.x">2010 paper</a> and a more
-computational <a href="http://dx.doi.org/10.1016/j.csda.2010.10.003">paper from 2011</a> both with Andrea De Gaetano and Susanne Ditlevsen. See also <a href="http://www.maths.lth.se/matstat/staff/umberto/abstracts/sdmem-lif-neco08.html">an application to neuronal models</a>.<br>
-With Julie Lyng Forman I have considered a "likelihood free" methodology named <i>synthetic likelihood</i> to estimate a <a href="https://arxiv.org/abs/1607.02633">stochastic model of tumor growth in mice</a>, where different groups of mice are subject to different types of treatment.<br>
-With Samuel Wiqvist, Andrew Golightly and Ashleigh Mclean we have produced exact Bayesian inference for very general mixed-effects SDE models, including measurement error, using <a href="https://arxiv.org/abs/1907.09851">correlated particles pseudo-marginal methods</a>.
- We believe that, to date, <a href="https://arxiv.org/abs/1907.09851">this</a> is the most flexible methodology to efficiently handle inference for very general SDE mixed-effects models. A follow up paper introduces <a href="https://www.biorxiv.org/content/10.1101/2021.07.01.450748v1">PEPSDI</a> a framework 
- for exact Bayesian inference using particle methods, suitable for many stochastic dynamical mixed-effects models with latent Markov dynamics, hence SDEMEMs are a special case. The code is written in the Julia language.
-<br>
-<br>
-</p>
