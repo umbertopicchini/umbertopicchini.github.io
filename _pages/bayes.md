@@ -13,8 +13,8 @@ These interests are reflected in my [publications](/publications) and my [blog p
 
 Bayes Nordics
 ======
-I have created [Bayes Nordics](https://sites.google.com/site/bayesnordics/), a mail list that focusses on 
-Bayesian-related events, activities and job-posts in the European Nordic countries.
+In 2016 I have created [Bayes Nordics](https://sites.google.com/site/bayesnordics/), a mail list that focusses on 
+Bayesian-related events, activities and job-posts in the European Nordic countries. It is actively maintained and keeps spreading info. 
 **Please join in! It's free!**
 
 One World ABC seminars
