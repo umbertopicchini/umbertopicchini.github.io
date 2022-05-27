@@ -7,7 +7,10 @@ author_profile: true
 
 (for fresher news go to my [start page](https://umbertopicchini.github.io/))
 
-- 3 November 2020: revised "Adaptive MCMC for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558)
+- 25 June 2021: significantly updated "Sequentially guided MCMC proposals for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558).
+- 9 June 2021: significantly updated "Sequential neural posterior and likelihood approximation", [arxiv:2102.06522](https://arxiv.org/abs/2102.06522).
+- 15 February 2021: [New paper](https://arxiv.org/abs/2102.06522) "Sequential neural posterior and likelihood approximation", [arxiv:2102.06522](https://arxiv.org/abs/2102.06522).
+- 3 November 2020: revised "Adaptive MCMC for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558).
 - 2 September 2020: PhD student [Petar Jovanovski](https://www.chalmers.se/en/staff/Pages/petarj.aspx) has started his position under my supervision; he will work on [this project](https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) on simulation based inference.
 - <del>[PhD position with me! Apply by 1 June 2020](https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/ai-project-5.aspx) </del>
 - on 7 May 2020 I gave a zoom talk at the [One World ABC Seminar](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar). The video is available [here](https://youtu.be/IOPnRfAJ_W8).
