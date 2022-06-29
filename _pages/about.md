@@ -17,6 +17,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- 27 June 2022: [New paper](https://arxiv.org/abs/2206.12235) "Guided sequential ABC schemes for intractable Bayesian models".
 - June 2022: giving a talk at ISBA in Montreal on our [Sequentially guided synthetic likelihoods paper](https://doi.org/10.1214/22-BA1305) on 28 June in the 1.30pm session. But there is **also a poster** [here](https://chalmers-my.sharepoint.com/:b:/g/personal/picchini_chalmers_se/EWjcrInB3U9LrSnPMPX-eCEBIKCxnWgjHmMymV78uBttUQ?e=eda4EE).
 - May 2022: [published](https://doi.org/10.1371/journal.pcbi.1010082) on <i>PLOS Comp. Biology</i>: PEPSDI framework for Bayesian inference for mixed-effects stochastic models.
 - 1 April 2022: here are [slides](https://www.slideshare.net/UmbertoPicchini/bayesian-inference-for-stoch-memsbayesian-inference-for-mixedeffects-models-driven-by-sdes-and-other-stochastic-models-a-scalable-approach) from my [talk](https://www.bristolmathsresearch.org/seminar/umberto-picchini/) at Maths department in Bristol on our [PEPSDI](https://www.biorxiv.org/content/10.1101/2021.07.01.450748v1) work and generally SDE mixed-effects models.
