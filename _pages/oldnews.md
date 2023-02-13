@@ -7,6 +7,10 @@ author_profile: true
 
 (for fresher news go to my [start page](https://umbertopicchini.github.io/))
 
+- 24 September 2021: Samuel Wiqvist [defends his PhD thesis](https://www.maths.lu.se/kalendarium/?evenemang=phd-defense-samuel-wiqvist).
+- 4 July 2021: [New paper](https://doi.org/10.1101/2021.07.01.450748) "PEPSDI: Scalable and flexible inference framework for stochastic dynamic single-cell models", [bioRxiv](https://doi.org/10.1101/2021.07.01.450748).
+- 2 July 2021: [paper significantly updated](https://arxiv.org/abs/1905.07976) "Stratified sampling and bootstrapping for approximate Bayesian computation".
+- 23 June -2 July 2021: I gave a talk at [ISBA 2021](https://events.stat.uconn.edu/ISBA2021/) entitled "Guided sequential menthods for intractable Bayesian models".
 - 25 June 2021: significantly updated "Sequentially guided MCMC proposals for synthetic likelihoods and correlated synthetic likelihoods", [arxiv:2004.04558](https://arxiv.org/abs/2004.04558).
 - 9 June 2021: significantly updated "Sequential neural posterior and likelihood approximation", [arxiv:2102.06522](https://arxiv.org/abs/2102.06522).
 - 15 February 2021: [New paper](https://arxiv.org/abs/2102.06522) "Sequential neural posterior and likelihood approximation", [arxiv:2102.06522](https://arxiv.org/abs/2102.06522).
