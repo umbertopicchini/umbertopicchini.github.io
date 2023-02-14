@@ -17,6 +17,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- Feb 2023: New paper: [Mathematical modeling of nerve mortality caused by diabetic neuropathy](https://arxiv.org/abs/2302.06374).
 - July 2022: I am the chair of the local organization for NORDSTAT 2023. Check out the event's page at [nordstat2023.org](https://nordstat2023.org/).
 - July 2022: I am member of the scientific committee for the BayesComp 2023 satellite workshop "Bayesian computing without exact likelihoods" [bayescomp2023](https://bayescomp2023.com/).
 - 27 June 2022: New paper: [Guided sequential ABC schemes for intractable Bayesian models](https://arxiv.org/abs/2206.12235).
