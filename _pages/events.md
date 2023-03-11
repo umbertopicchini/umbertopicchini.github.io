@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I am (or have been) organizer for the following events.
+I am (or have been) organizer for the following events:
 
 NORDSTAT 2023
 ======
