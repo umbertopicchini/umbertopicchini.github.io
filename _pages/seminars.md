@@ -12,7 +12,7 @@ NORDSTAT 2023
 
 I am the chair of the organizing committee for [NORDSTAT 2023](https://nordstat2023.org/), the 29th Nordic conference in Mathematical Statistics. I am also member of the Scientific Cmmittee.
 
-AI Talks, at Chalmers and University of Göteborg
+Structured Learning
 ======
 
 I have co-created and I am co-organizer of the Chalmers AI Theme in "Structured Learning", see for example the [Kickoff Event](https://ui.ungpd.com/Events/d8108175-3b39-4e00-ad7d-b360e67dbe4c).
