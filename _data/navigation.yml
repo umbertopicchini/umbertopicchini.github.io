@@ -21,8 +21,8 @@ main:
   - title: "Bayes"
     url: /bayes/ 
         
-  - title: "Seminars"
-    url: /seminars/ 
+  - title: "Events"
+    url: /events/ 
     
   - title: "CV"
     url: /cv/
