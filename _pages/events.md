@@ -10,7 +10,7 @@ I am (or have been) organizer for the following events:
 NORDSTAT 2023
 ======
 
-I am the chair of the organizing committee for [NORDSTAT 2023](https://nordstat2023.org/), the 29th Nordic conference in Mathematical Statistics. I am also member of the Scientific Cmmittee.
+I am the chair of the organizing committee for [NORDSTAT 2023](https://nordstat2023.org/), the 29th Nordic conference in Mathematical Statistics. I am also member of the Scientific Committee.
 
 Structured Learning
 ======
@@ -20,7 +20,7 @@ I have co-created and I am co-organizer of the Chalmers AI Theme in "Structured 
 AI Talks, at Chalmers and University of Göteborg
 ======
 
-Curently I am co-organizer for the [AI Talks](https://www.aitalks.se/) series set up by CHAIR (Chalmers AI Research Centre). This series promotes accessible and inspiring seminars from internationally acclaimed experts on artificial intelligence. Videos are available at the CHAIR [YouTube channel](https://www.youtube.com/channel/UC_4mfkM2YV94f-P4n81l-Bg/videos).
+I am co-organizer of the [AI Talks](https://www.aitalks.se/) series set up by CHAIR (Chalmers AI Research Centre). This series promotes accessible and inspiring seminars from internationally acclaimed experts on artificial intelligence. Videos are available at the CHAIR [YouTube channel](https://www.youtube.com/channel/UC_4mfkM2YV94f-P4n81l-Bg/videos).
 
 Approximate Bayesian Computation (ABC) One World series
 ======
@@ -30,4 +30,4 @@ Currently I am co-organizer for the [One World Approximate Bayesian Computation 
 Statistics seminars at Dept. Mathematical Sciences, Chalmers and University of Göteborg
 ======
 
-From 2018 to 2022 Ihave organized the departmental [Stats series](https://www.chalmers.se/en/departments/math/calendar/Pages/default.aspx?fromDate=From%20date&toDate=To%20date&categories=Seminar), at dept Mathematical Sciences, Chalmers and University of Gothenburg.
+From 2018 to 2022 I have organized the departmental [Stats series](https://www.chalmers.se/en/departments/math/calendar/Pages/default.aspx?fromDate=From%20date&toDate=To%20date&categories=Seminar), at dept Mathematical Sciences, Chalmers and University of Gothenburg.
