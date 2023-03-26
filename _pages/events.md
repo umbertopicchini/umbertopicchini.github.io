@@ -10,22 +10,23 @@ I am (or have been) organizer for the following events:
 NORDSTAT 2023
 ======
 
-I am the chair of the organizing committee for [NORDSTAT 2023](https://nordstat2023.org/), the 29th Nordic conference in Mathematical Statistics. I am also member of the Scientific Committee.
+Current: I am the chair of the organizing committee for [NORDSTAT 2023](https://nordstat2023.org/), the 29th Nordic conference in Mathematical Statistics. I am also member of the Scientific Committee.
 
 Structured Learning
 ======
 
-I have co-created and I am co-organizer of the Chalmers AI Theme in "Structured Learning", see for example the [Kickoff Event](https://ui.ungpd.com/Events/d8108175-3b39-4e00-ad7d-b360e67dbe4c) and an [October 2023 workshop](https://ui.ungpd.com/Events/e69525e2-a771-4453-ac56-7bc5e7b0fc8b).
+Current: in 2022-2023 I have co-created and I am co-organizer of the Chalmers AI Theme in "Structured Learning", see for example the [Kickoff Event](https://ui.ungpd.com/Events/d8108175-3b39-4e00-ad7d-b360e67dbe4c) and an [October 2023 workshop](https://ui.ungpd.com/Events/e69525e2-a771-4453-ac56-7bc5e7b0fc8b).
+
+
+Approximate Bayesian Computation (ABC) One World series
+======
+
+Current: since 2020 I am co-organizer for the [One World Approximate Bayesian Computation (ABC)](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar) series. All videos are available at the ISBA's [YouTube channel](https://www.youtube.com/channel/UCcUPLIjKrJC_qwqWhDamlIw).
 
 AI Talks, at Chalmers and University of Göteborg
 ======
 
 I am co-organizer of the [AI Talks](https://www.aitalks.se/) series set up by CHAIR (Chalmers AI Research Centre). This series promotes accessible and inspiring seminars from internationally acclaimed experts on artificial intelligence. Videos are available at the CHAIR [YouTube channel](https://www.youtube.com/channel/UC_4mfkM2YV94f-P4n81l-Bg/videos).
-
-Approximate Bayesian Computation (ABC) One World series
-======
-
-Currently I am co-organizer for the [One World Approximate Bayesian Computation (ABC)](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar) series. All videos are available at the ISBA's [YouTube channel](https://www.youtube.com/channel/UCcUPLIjKrJC_qwqWhDamlIw).
 
 Statistics seminars at Dept. Mathematical Sciences, Chalmers and University of Göteborg
 ======
