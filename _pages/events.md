@@ -15,7 +15,7 @@ I am the chair of the organizing committee for [NORDSTAT 2023](https://nordstat2
 Structured Learning
 ======
 
-I have co-created and I am co-organizer of the Chalmers AI Theme in "Structured Learning", see for example the [Kickoff Event](https://ui.ungpd.com/Events/d8108175-3b39-4e00-ad7d-b360e67dbe4c).
+I have co-created and I am co-organizer of the Chalmers AI Theme in "Structured Learning", see for example the [Kickoff Event](https://ui.ungpd.com/Events/d8108175-3b39-4e00-ad7d-b360e67dbe4c) and an [October 2023 workshop](https://ui.ungpd.com/Events/e69525e2-a771-4453-ac56-7bc5e7b0fc8b).
 
 AI Talks, at Chalmers and University of Göteborg
 ======
