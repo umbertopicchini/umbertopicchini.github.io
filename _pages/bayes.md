@@ -17,11 +17,15 @@ In 2016 I have created [Bayes Nordics](https://sites.google.com/site/bayesnordic
 Bayesian-related events, activities and job-posts in the European Nordic countries. It is actively maintained and keeps spreading info. 
 **Please join in! It's free!**
 
+Bayesian computing without exact likelihoods 2023
+=====
+I co-organized the workshop [Bayesian computing without exact likelihoods](https://bayescomp-isba.github.io/SatelliteNoLikelihoods.html) 12-14 March 2023 in Levi (Finland), a satellite event of the BayesComp 2023 conference also held in Levi.
+
 One World ABC seminars
 =====
 I am co-organizer of the [One World online seminars on Approximate Bayesian Computation](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar). 
 
-Bayes@Lund conference
+Bayes@Lund 2017 
 ======
 In 2017 I organized the conference [Bayes@Lund](https://www.maths.lu.se/bayeslund2017/), with Ullrika Sahlin. It was well attended by a general public and scholars from many different departments. 
 
