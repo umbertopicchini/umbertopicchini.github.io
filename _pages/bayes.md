@@ -21,6 +21,10 @@ One World ABC seminars
 =====
 I am co-organizer of the [One World online seminars on Approximate Bayesian Computation](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar). 
 
+Bayes@Lund conference
+======
+In 2017 I organized the conference [Bayes@Lund](https://www.maths.lu.se/bayeslund2017/), with Ullrika Sahlin. It was well attended by a general public and scholars from many different departments. 
+
 göBayes reading group
 ======
 I have created a [reading group](https://www.chalmers.se/en/departments/math/research/seminar-series/Bayesian-Reading-Group/) in Göteborg, to discuss noteworthy Bayesian papers.
@@ -29,4 +33,4 @@ Study group in Bayesian methods at Lund University
 ======
 In 2015-16 I have coordinated a group _"to advance the understanding and use of Bayesian methodology for the quantification and communication 
   of uncertainty at Lund University."_
-We organized many activities and workshops, all available at [this page](http://www.maths.lth.se/matstat/staff/umberto/bayes-asg.html).
+We organized many activities and workshops, summarised in [this document](https://lucris.lub.lu.se/ws/portalfiles/portal/12160328/final_report.pdf).
