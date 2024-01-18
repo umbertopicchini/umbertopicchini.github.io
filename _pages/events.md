@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I am (or have been) organizer for the following events:
+Events I have organized in relation to Bayesian statistics are found [here](_pages/bayes.md). The following contains other events I am (or have been) organizer for:
 
 NORDSTAT 2023
 ======
