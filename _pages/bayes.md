@@ -21,9 +21,9 @@ Bayesian computing without exact likelihoods 2023
 =====
 I co-organized the workshop [Bayesian computing without exact likelihoods](https://bayescomp-isba.github.io/SatelliteNoLikelihoods.html) 12-14 March 2023 in Levi (Finland), a satellite event of the BayesComp 2023 conference also held in Levi.
 
-One World ABC seminars
+One World ABC seminars (2020--current)
 =====
-I am co-organizer of the [One World online seminars on Approximate Bayesian Computation](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar). 
+Since 2020 I am a co-organizer of the [One World online seminars on Approximate Bayesian Computation](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar). 
 
 Bayes@Lund 2017 
 ======
