@@ -23,7 +23,7 @@ I co-organized the workshop [Bayesian computing without exact likelihoods](https
 
 One World ABC seminars (2020--current)
 =====
-Since 2020 I am a co-organizer of the [One World online seminars on Approximate Bayesian Computation](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar). 
+Since 2020 I am a co-organizer of the [One World online seminars on Approximate Bayesian Computation](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar).  All videos are available at the ISBA's [YouTube channel](https://www.youtube.com/channel/UCcUPLIjKrJC_qwqWhDamlIw).
 
 Bayes@Lund 2017 
 ======
