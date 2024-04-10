@@ -85,7 +85,7 @@ author:
   location         : "Gothenburg, Sweden"
   employer         :
   googlescholar    : "https://scholar.google.se/citations?user=eD2hwhcAAAAJ&hl=en"
-  email            : 
+  email            : # "LASTNAME@chalmers.se"
   uri              :
   bitbucket        :
   codepen          :
@@ -112,6 +112,10 @@ author:
   youtube          :
   wikipedia        :
   wordpress        : "umbertopicchini"
+  links            : 
+  - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:LASTNAME@chalmers.se
 
 
 # Reading Files
