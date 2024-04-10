@@ -112,10 +112,7 @@ author:
   youtube          :
   wikipedia        :
   wordpress        : "umbertopicchini"
-  links            : 
-  - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:LASTNAME@chalmers.se"
+
 
 
 # Reading Files
