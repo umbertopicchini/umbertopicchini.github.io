@@ -17,15 +17,13 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- May 2024: [paper](https://arxiv.org/abs/2206.12235) accepted on Bayesian Analysis.
 - March 2024: New paper: [Fast, accurate and lightweight sequential simulation-based inference using Gaussian locally linear mappings](https://arxiv.org/abs/2403.07454).
 - Oct 2023: New paper: [Towards Data-Conditional Simulation for ABC Inference in Stochastic Differential Equations](https://arxiv.org/abs/2310.10329).
 - July 2023: Accepted in Statistics in Medicine, [Statistical modeling of diabetic neuropathy: Exploring the dynamics of nerve mortality](https://arxiv.org/abs/2302.06374).
 - June 2023: [NORDSTAT 2023](https://nordstat2023.org/) was a success! 300 participants, 180 talks and 30 posters. A great pleasure to have been (very much) involved with its organization! Here is a [summary article](https://www.chalmers.se/en/current/news/mv-about-nordstat-2023/).
 - Feb 2023: New paper: [JANA: jointly amortized neural approximation of complex Bayesian models](https://arxiv.org/abs/2302.09125).
 - Feb 2023: New paper: [Mathematical modeling of nerve mortality caused by diabetic neuropathy](https://arxiv.org/abs/2302.06374).
-- July 2022: I am the chair of the local organization for NORDSTAT 2023. Check out the event's page at [nordstat2023.org](https://nordstat2023.org/).
-- July 2022: I am member of the scientific committee for the BayesComp 2023 satellite workshop "Bayesian computing without exact likelihoods" [bayescomp2023](https://bayescomp2023.com/).
-- 27 June 2022: New paper: [Guided sequential ABC schemes for intractable Bayesian models](https://arxiv.org/abs/2206.12235).
 
 
 [Older news](oldnews)
