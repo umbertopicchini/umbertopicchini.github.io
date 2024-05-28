@@ -7,6 +7,9 @@ author_profile: true
 
 (for fresher news go to my [start page](https://umbertopicchini.github.io/))
 
+- July 2022: I am the chair of the local organization for NORDSTAT 2023. Check out the event's page at [nordstat2023.org](https://nordstat2023.org/).
+- July 2022: I am member of the scientific committee for the BayesComp 2023 satellite workshop "Bayesian computing without exact likelihoods" [bayescomp2023](https://bayescomp2023.com/).
+- 27 June 2022: New paper: [Guided sequential ABC schemes for intractable Bayesian models](https://arxiv.org/abs/2206.12235).
 - June 2022: giving a talk at ISBA in Montreal on our [Sequentially guided synthetic likelihoods paper](https://doi.org/10.1214/22-BA1305) on 28 June in the 1.30pm session. But there is **also a poster** [here](https://chalmers-my.sharepoint.com/:b:/g/personal/picchini_chalmers_se/EWjcrInB3U9LrSnPMPX-eCEBIKCxnWgjHmMymV78uBttUQ?e=eda4EE).
 - May 2022: [published](https://doi.org/10.1371/journal.pcbi.1010082) on <i>PLOS Comp. Biology</i>: PEPSDI framework for Bayesian inference for mixed-effects stochastic models.
 - 1 April 2022: here are [slides](https://www.slideshare.net/UmbertoPicchini/bayesian-inference-for-stoch-memsbayesian-inference-for-mixedeffects-models-driven-by-sdes-and-other-stochastic-models-a-scalable-approach) from my [talk](https://www.bristolmathsresearch.org/seminar/umberto-picchini/) at Maths department in Bristol on our [PEPSDI](https://www.biorxiv.org/content/10.1101/2021.07.01.450748v1) work and generally SDE mixed-effects models.
