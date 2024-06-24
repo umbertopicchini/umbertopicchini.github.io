@@ -17,7 +17,8 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
-- May 2024: [paper](https://arxiv.org/abs/2206.12235) accepted on Bayesian Analysis.
+- June 2024: accepted on Transactions on Machine Learning Research, [Fast, accurate and lightweight sequential simulation-based inference using Gaussian locally linear mappings](https://arxiv.org/abs/2403.07454).
+- May 2024: accepted on Bayesian Analysis, [Guided sequential ABC schemes for intractable Bayesian models](https://arxiv.org/abs/2206.12235).
 - March 2024: New paper: [Fast, accurate and lightweight sequential simulation-based inference using Gaussian locally linear mappings](https://arxiv.org/abs/2403.07454).
 - Oct 2023: New paper: [Towards Data-Conditional Simulation for ABC Inference in Stochastic Differential Equations](https://arxiv.org/abs/2310.10329).
 - July 2023: Accepted in Statistics in Medicine, [Statistical modeling of diabetic neuropathy: Exploring the dynamics of nerve mortality](https://arxiv.org/abs/2302.06374).
