@@ -17,7 +17,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
-- Sept 2024: accepted in Bayesian Analysis, [Towards Data-Conditional Simulation for ABC Inference in Stochastic Differential Equations](https://arxiv.org/abs/2310.10329).
+- Sept 2024: accepted in Bayesian Analysis, [Towards Data-Conditional Simulation for ABC Inference in Stochastic Differential Equations](https://doi.org/10.1214/24-BA1467).
 - June 2024: accepted in Transactions on Machine Learning Research, [Fast, accurate and lightweight sequential simulation-based inference using Gaussian locally linear mappings](https://openreview.net/forum?id=Q0nzpRcwWn).
 - May 2024: accepted in Bayesian Analysis, [Guided sequential ABC schemes for intractable Bayesian models](https://doi.org/10.1214/24-BA1451).
 - March 2024: New paper: [Fast, accurate and lightweight sequential simulation-based inference using Gaussian locally linear mappings](https://arxiv.org/abs/2403.07454).
