@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I am very interested in researching computational methods for Bayesian inference, especially 
-simulation-based inference approaches (such as [ABC](/research/)) for models having _intractable likelihoods_, Markov chain Monte Carlo (MCMC) and sequential Monte Carlo (aka particle filters). 
+simulation-based inference approaches (such as [ABC](/research)) for models having _intractable likelihoods_, Markov chain Monte Carlo (MCMC) and sequential Monte Carlo (aka particle filters). 
 
 These interests are reflected in my [publications](/publications) and my [blog posts](https://umbertopicchini.wordpress.com/).
 
