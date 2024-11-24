@@ -88,6 +88,7 @@ author:
   email            : "picchini@chalmers.se"
   uri              :
   bitbucket        :
+  bluesky          : "upicchini" # Replace this with you Bluesky username
   codepen          :
   dribbble         :
   flickr           :
@@ -105,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "uPicchini"
+  twitter          : # "uPicchini"
   vine             :
   weibo            :
   xing             :
