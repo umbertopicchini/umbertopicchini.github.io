@@ -18,7 +18,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 **News**
 
 - January 2025: I have been promoted to Full Professor! ([Inauguration Lecture](https://www.chalmers.se/en/current/calendar/mv-inauguration-lecture-umberto-picchini/) on 21st February).
-- January 2025: [Henrik Häggström](https://www.chalmers.se/en/persons/henhagg/) has started a PhD with Marija Cvijovic and myself. He wll work on stochastic modeling and inference for Systems Biology.
+- January 2025: [Henrik Häggström](https://www.chalmers.se/en/persons/henhagg/) has started a PhD with Marija Cvijovic and myself. He will work on stochastic modeling and inference for Systems Biology.
 - Sept 2024: accepted in Bayesian Analysis, [Towards Data-Conditional Simulation for ABC Inference in Stochastic Differential Equations](https://doi.org/10.1214/24-BA1467).
 - June 2024: accepted in Transactions on Machine Learning Research, [Fast, accurate and lightweight sequential simulation-based inference using Gaussian locally linear mappings](https://openreview.net/forum?id=Q0nzpRcwWn).
 - May 2024: accepted in Bayesian Analysis, [Guided sequential ABC schemes for intractable Bayesian models](https://doi.org/10.1214/24-BA1451).
