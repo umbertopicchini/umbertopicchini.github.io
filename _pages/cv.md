@@ -13,7 +13,8 @@ Further details can be found at my [ORCID profile](http://orcid.org/0000-0002-07
 
 Work experience
 ======
-* from May 2018, Associate Professor (and [docent](https://en.wikipedia.org/wiki/Docent#Sweden)) in Mathematical Statistics at the [Department of Mathematical Sciences](http://www.chalmers.se/en/departments/math/) at the University of Gothenburg and Chalmers
+* 2025-current, Full Professor in Mathematical Statistics at the [Department of Mathematical Sciences](http://www.chalmers.se/en/departments/math/) at the University of Gothenburg and Chalmers University of Technology, Gothenburg, Sweden.
+* 2018-2024, Associate Professor (and [docent](https://en.wikipedia.org/wiki/Docent#Sweden)) in Mathematical Statistics at the [Department of Mathematical Sciences](http://www.chalmers.se/en/departments/math/) at the University of Gothenburg and Chalmers
 University of Technology, Gothenburg, Sweden.
 * 2016-2017, Associate Professor (and [docent](https://en.wikipedia.org/wiki/Docent#Sweden)) in Mathematical Statistics at the [Centre for Mathematical Sciences](http://www.maths.lu.se/), [Lund University](http://www.lu.se/), Sweden.
 * 2011-2016, Assistant Professor in Mathematical Statistics at the [Centre for Mathematical Sciences](http://www.maths.lu.se/), [Lund University](http://www.lu.se/), Sweden.
