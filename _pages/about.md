@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal page of Umberto Picchini, a Full Professor in Mathematical Statistics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and University of Gothenburg, Sweden. Here is <a href="https://www.chalmers.se/en/persons/picchini/">my official university profile</a>. I am also a faculty member of the [Chalmers AI Research Centre](https://www.chalmers.se/en/centres/chair/). 
+This is the personal page of Umberto Picchini, an Associate Professor in Mathematical Statistics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and University of Gothenburg, Sweden. Here is <a href="https://www.chalmers.se/en/persons/picchini/">my official university profile</a>. I am also a faculty member of the [Chalmers AI Research Centre](https://www.chalmers.se/en/centres/chair/). 
 
 Let's [get in touch](contact) to talk about statistical inference (especially **Bayesian**), **likelihood-free** methods for models with intractable likelihoods, and **Monte Carlo** statistical methods such as MCMC and sequential Monte Carlo, and the application of statistical inference in applied problems.
 
