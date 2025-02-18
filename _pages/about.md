@@ -21,7 +21,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
-- Fewbruary 2025: [an interview](https://www.chalmers.se/en/current/news/mv-statistical-inference-and-simulations-in-stochastic-modelling/) on the occasion of my promotion to Full Professor.
+- February 2025: [an interview](https://www.chalmers.se/en/current/news/mv-statistical-inference-and-simulations-in-stochastic-modelling/) on the occasion of my promotion to Full Professor.
 - January 2025: I have been promoted to Full Professor! ([Inauguration Lecture](https://www.chalmers.se/en/current/calendar/mv-inauguration-lecture-umberto-picchini/) on 21st February).
 - January 2025: I am now an Associate Editor for the [Scandinavian Journal of Statistics](https://onlinelibrary.wiley.com/journal/14679469).
 - January 2025: [Henrik Häggström](https://www.chalmers.se/en/persons/henhagg/) has started a PhD with Marija Cvijovic and myself. He will work on stochastic modeling and inference for Systems Biology.
