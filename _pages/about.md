@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal page of Umberto Picchini, an Associate Professor in Mathematical Statistics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and University of Gothenburg, Sweden. Here is <a href="https://www.gu.se/en/about/find-staff/umbertopicchini">my official university profile</a>. 
+This is the personal page of Umberto Picchini, a Full Professor in Mathematical Statistics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and University of Gothenburg, Sweden. Here is <a href="https://www.gu.se/en/about/find-staff/umbertopicchini">my official university profile</a>. 
 
 I am also:
 * an Associate Editor for the [Scandinavian Journal of Statistics](https://onlinelibrary.wiley.com/journal/14679469).
