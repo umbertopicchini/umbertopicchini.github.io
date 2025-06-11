@@ -21,6 +21,8 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- June 2025: Giving a [talk](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/seminars/spring_2025/umberto-picchini.html) at Maths dept in Oslo on "Scalable Bayesian inference in stochastic nonlinear mixed-effects models using semi-amortised likelihood and posterior approximations".
+- May 2025: participated to the very enjoyable [BioInference 2025](https://bioinference.github.io/2025/) conference in Bardonecchia, where [Henrik Häggström](https://www.chalmers.se/en/persons/henhagg/) and [Petar Jovanovski](https://research.chalmers.se/en/person/?cid=petarj) presented our works.
 - April 2025: New paper: [Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology](https://arxiv.org/abs/2504.11279).
 - February 2025: [an interview](https://www.chalmers.se/en/current/news/mv-statistical-inference-and-simulations-in-stochastic-modelling/) on the occasion of my promotion to Full Professor.
 - January 2025: I have been promoted to Full Professor! ([Inauguration Lecture](https://www.chalmers.se/en/current/calendar/mv-inauguration-lecture-umberto-picchini/) on 21st February).
