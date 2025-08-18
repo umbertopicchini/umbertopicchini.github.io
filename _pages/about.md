@@ -21,6 +21,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- August 2025: New paper: [Simulation-based inference using splitting schemes for partially observed diffusions in chemical reaction networks](https://arxiv.org/abs/2508.11438).
 - June 2025: Giving a [talk](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/seminars/spring_2025/umberto-picchini.html) at Maths dept in Oslo on "Scalable Bayesian inference in stochastic nonlinear mixed-effects models using semi-amortised likelihood and posterior approximations".
 - May 2025: participated to the very enjoyable [BioInference 2025](https://bioinference.github.io/2025/) conference in Bardonecchia, where [Henrik Häggström](https://www.chalmers.se/en/persons/henhagg/) and [Petar Jovanovski](https://research.chalmers.se/en/person/?cid=petarj) presented our works.
 - April 2025: New paper: [Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology](https://arxiv.org/abs/2504.11279).
