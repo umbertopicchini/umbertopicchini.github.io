@@ -21,6 +21,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- September 2025: my student Petar Jovanovski has successully defended his PhD thesis! Her is an [interview to Petar](https://www.chalmers.se/en/current/news/mv-better-inference-for-stochastic-dynamical-systems/). And here you find [the thesis and the papers](https://research.chalmers.se/en/publication/547984).
 - August 2025: New paper: [Simulation-based inference using splitting schemes for partially observed diffusions in chemical reaction networks](https://arxiv.org/abs/2508.11438).
 - June 2025: Giving a [talk](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/seminars/spring_2025/umberto-picchini.html) at Maths dept in Oslo on "Scalable Bayesian inference in stochastic nonlinear mixed-effects models using semi-amortised likelihood and posterior approximations".
 - May 2025: participated to the very enjoyable [BioInference 2025](https://bioinference.github.io/2025/) conference in Bardonecchia, where [Henrik Häggström](https://www.chalmers.se/en/persons/henhagg/) and [Petar Jovanovski](https://research.chalmers.se/en/person/?cid=petarj) presented our works.
