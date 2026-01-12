@@ -7,6 +7,11 @@ author_profile: true
 
 Events I have organized in relation to Bayesian statistics are found [here](https://umbertopicchini.github.io/bayes/). The following contains other events I am (or have been) organizer for:
 
+Dynstoch 2026
+======
+
+I am co-organizer for the [Dynstoch 2026](https://dynstoch2026.pages.dev/) conference. 
+
 NORDSTAT 2023
 ======
 
