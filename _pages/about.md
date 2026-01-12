@@ -21,6 +21,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- I am co-organizer for the [Dynstoch 2026](https://dynstoch2026.pages.dev/) conference. 
 - September 2025: my student Petar Jovanovski has successully defended his PhD thesis entitled "Simulation-based parameter inference methods based on data-conditional simulation of stochastic dynamical systems". Here is an [interview to Petar](https://www.chalmers.se/en/current/news/mv-better-inference-for-stochastic-dynamical-systems/). And here you find [the thesis and the papers](https://research.chalmers.se/en/publication/547984).
 - August 2025: New paper: [Simulation-based inference using splitting schemes for partially observed diffusions in chemical reaction networks](https://arxiv.org/abs/2508.11438).
 - June 2025: Giving a [talk](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/seminars/spring_2025/umberto-picchini.html) at Maths dept in Oslo on "Scalable Bayesian inference in stochastic nonlinear mixed-effects models using semi-amortised likelihood and posterior approximations".
