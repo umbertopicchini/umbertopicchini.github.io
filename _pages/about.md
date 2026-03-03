@@ -21,6 +21,7 @@ Interested in **Bayesian methods**? Check out [this page](bayes)!
 
 **News**
 
+- Our paper got published on Statistics and Computing! [Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology](https://link.springer.com/epdf/10.1007/s11222-026-10850-8?sharing_token=IRF6kxpvDNXjlT62X5IAv_e4RwlQNchNByi7wbcMAY5xzQDif9uUKqgb900cc5HM8e8-_e4-w_BJUD02gVH3jOzP87ZkDsTd9VpVt2iFi5-73yP2Hawl7EpthNvy4fDDLserxVIHMT37X_qSPqCLbjlmZhmHhjLNI9RmmJmWlGc%3D).
 - I am co-organizer for the [Dynstoch 2026](https://dynstoch2026.pages.dev/) conference. 
 - September 2025: my student Petar Jovanovski has successully defended his PhD thesis entitled "Simulation-based parameter inference methods based on data-conditional simulation of stochastic dynamical systems". Here is an [interview to Petar](https://www.chalmers.se/en/current/news/mv-better-inference-for-stochastic-dynamical-systems/). And here you find [the thesis and the papers](https://research.chalmers.se/en/publication/547984).
 - August 2025: New paper: [Simulation-based inference using splitting schemes for partially observed diffusions in chemical reaction networks](https://arxiv.org/abs/2508.11438).
